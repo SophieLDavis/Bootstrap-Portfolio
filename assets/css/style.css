@@ -28,6 +28,11 @@ grid-area: card33;
    
 }
 
+.skills-about {
+    display:flex;
+    flex-direction: column;
+}
+
 
 p:hover {
     color
