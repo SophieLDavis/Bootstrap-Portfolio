@@ -1,3 +1,35 @@
-p:hover {
-    color:yellow
+.containerGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "card11 card22 card33"
+    "card11 card22 card33"
+    background-color: lightblue;
+    padding: 10px;
+    }
+
+.card1 {
+grid-area: card11;
 }
+
+.card2 {
+grid-area: card22;
+}
+
+.card3 {
+grid-area: card33;
+}
+
+
+.bigcontainerGrid {
+    border: 30px;
+    margin:30px
+   
+}
+
+
+p:hover {
+    color
+}
+
