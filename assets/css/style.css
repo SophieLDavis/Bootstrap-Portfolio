@@ -29,10 +29,20 @@ grid-area: card33;
 }
 
 .skills-about {
-    display:flex;
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
+.skills {
+    padding: 10px;;
+    border:;
+}
+
+.about {
+padding:;
+border:;
+}
 
 p:hover {
     color
