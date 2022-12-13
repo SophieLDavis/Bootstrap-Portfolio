@@ -9,7 +9,7 @@
   }
 
 .jumbotron {
-    background-color: rgb(200, 157, 157);
+    background-color: rgb(199, 199, 199);
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -53,15 +53,20 @@ grid-area: card33;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding-bottom: 20%;
+    padding-bottom: 10%;
 }
 
 .skills {
-   padding-bottom:20%;
+   padding-bottom:5%;
    display:flex;
    flex-direction: row;
    justify-content: center;
 }
+
+.skill-section {
+    padding: 10%;
+}
+
 
 a:hover {
     color: pink
