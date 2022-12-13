@@ -1,3 +1,24 @@
+* {
+
+}
+
+.card-img {
+    height: 600px;
+    width: auto;
+    object-fit: cover;
+  }
+
+.jumbotron {
+    background-color: peachpuff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.lead {
+    float: right;
+    
+}
+
 .containerGrid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -36,15 +57,20 @@ grid-area: card33;
 
 .skills {
     padding: 10px;;
-    border:;
+    border: 15px;
+    border-color: blue;
 }
 
 .about {
-padding:;
-border:;
+padding: 10px;
+border: 15px;
+border-color: blue;
 }
 
 p:hover {
     color
 }
 
+.footer-button {
+    float: none;
+}
