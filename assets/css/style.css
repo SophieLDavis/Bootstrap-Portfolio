@@ -49,22 +49,18 @@ grid-area: card33;
    
 }
 
-.skills-about {
+.contact-about {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding-bottom: 20%;
 }
 
 .skills {
-    padding: 10px;;
-    border: 15px;
-    border-color: blue;
-}
-
-.about {
-padding: 10px;
-border: 15px;
-border-color: blue;
+   padding-bottom:20%;
+   display:flex;
+   flex-direction: row;
+   justify-content: center;
 }
 
 p:hover {
@@ -72,5 +68,15 @@ p:hover {
 }
 
 .footer-button {
-    float: none;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.hyperlink {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-bottom: 3%;
+    padding-right: 3%;
 }
