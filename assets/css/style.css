@@ -73,6 +73,10 @@ a:hover {
     justify-content: center;
 }
 
+button:hover {
+    box-shadow: 15px 15px 15px greenyellow
+}
+
 .hyperlink {
     display:flex;
     flex-direction: row;
