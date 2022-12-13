@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 ## Installation
-The project is deployed as a live website at https://sophieldavis.github.io/Bootstrap-Portfolio/Links to an external site. To install the code to develop the project, use the VS Code application to open the html and css styling files on your local environment from the Refactor Challenge repository. 
+The project is deployed as a live website at https://sophieldavis.github.io/Bootstrap-Portfolio/Links to an external site. To install the code to develop the project, use the VS Code application to open the html and css styling files on your local environment from the Bootstrap Portfolio repository. 
 
 ## Usage 
 The website is currently deployed with a navigation bar that contain four tabs with working links that take the user to the matching section laid further down the page. 
