@@ -9,7 +9,7 @@
   }
 
 .jumbotron {
-    background-color: rgb(255, 137, 137);
+    background-color: rgb(200, 157, 157);
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -63,12 +63,12 @@ grid-area: card33;
    justify-content: center;
 }
 
-p:hover {
-    color
+a:hover {
+    color: pink
 }
 
 .footer-button {
-    display:flex;
+    display: flex;
     flex-direction: row;
     justify-content: center;
 }
